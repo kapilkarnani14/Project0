@@ -1,0 +1,47 @@
+@media only screen and (min-width: 600px) {
+  .header {
+    background-color: white;
+  }
+
+body {
+  background-color: #e5bb16;
+}
+
+#header
+{
+  margin-left: 20px;
+}
+
+.body{
+  padding: 10px;
+  font-size: 16px;
+  font-family: cursive;
+}
+
+ul
+{
+  float : left;
+  background-color: #191816;
+  width:100%;
+  margin-left: -10px;
+
+}
+
+ a{
+    float: left;
+    margin:10px;
+    font-size: 20px;
+    color:#ffffff;
+    text-decoration: none;
+}
+
+table{
+  margin-left: 20px;
+  padding-right: 100px;
+}
+
+tr, td, th{
+  padding: 5px;
+  border: dotted 2px;
+  padding-right: 30px;
+}
